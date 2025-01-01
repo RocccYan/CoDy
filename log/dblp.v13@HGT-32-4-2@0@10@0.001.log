@@ -1,0 +1,45 @@
+2024-01-27 04:05:02,299 - root - INFO - Task dblp.v13@HGT-32-4-2@0@10@0.001 begin...
+2024-01-27 04:06:38,861 - root - INFO - 65978
+2024-01-27 04:06:39,439 - root - INFO - get loaders done.
+2024-01-27 04:06:39,471 - root - INFO - Using device: cuda
+2024-01-27 04:07:45,649 - root - INFO - Epoch: 000, LossReg: 1473.0746, LossCLS: 846.1937,Acc: 0.632798, F1_Macro:0.295370, Time: 61.09 seconds.
+2024-01-27 04:08:46,762 - root - INFO - Epoch: 001, LossReg: 1225.3101, LossCLS: 827.9922,Acc: 0.638490, F1_Macro:0.328357, Time: 61.11 seconds.
+2024-01-27 04:09:48,581 - root - INFO - Epoch: 002, LossReg: 1220.8450, LossCLS: 816.1146,Acc: 0.641193, F1_Macro:0.340278, Time: 61.82 seconds.
+2024-01-27 04:10:49,852 - root - INFO - Epoch: 003, LossReg: 1206.3269, LossCLS: 810.6435,Acc: 0.641862, F1_Macro:0.345864, Time: 61.27 seconds.
+2024-01-27 04:11:51,157 - root - INFO - Epoch: 004, LossReg: 1204.8484, LossCLS: 805.8698,Acc: 0.642890, F1_Macro:0.346339, Time: 61.30 seconds.
+2024-01-27 04:12:52,192 - root - INFO - Epoch: 005, LossReg: 1201.1505, LossCLS: 803.1621,Acc: 0.643964, F1_Macro:0.351082, Time: 61.03 seconds.
+2024-01-27 04:13:53,394 - root - INFO - Epoch: 006, LossReg: 1196.3487, LossCLS: 803.3521,Acc: 0.642844, F1_Macro:0.348811, Time: 61.20 seconds.
+2024-01-27 04:14:54,223 - root - INFO - Epoch: 007, LossReg: 1189.0488, LossCLS: 799.8990,Acc: 0.644807, F1_Macro:0.357316, Time: 60.83 seconds.
+2024-01-27 04:15:55,854 - root - INFO - Epoch: 008, LossReg: 1187.8476, LossCLS: 799.2031,Acc: 0.644865, F1_Macro:0.356712, Time: 61.63 seconds.
+2024-01-27 04:16:57,121 - root - INFO - Epoch: 009, LossReg: 1191.3954, LossCLS: 799.6557,Acc: 0.644484, F1_Macro:0.361536, Time: 61.27 seconds.
+2024-01-27 04:17:58,181 - root - INFO - Epoch: 010, LossReg: 1179.5551, LossCLS: 795.0894,Acc: 0.646678, F1_Macro:0.363085, Time: 61.06 seconds.
+2024-01-27 04:18:59,859 - root - INFO - Epoch: 011, LossReg: 1174.4823, LossCLS: 795.1405,Acc: 0.646112, F1_Macro:0.364048, Time: 61.68 seconds.
+2024-01-27 04:20:01,043 - root - INFO - Epoch: 012, LossReg: 1166.7711, LossCLS: 791.5431,Acc: 0.646747, F1_Macro:0.364975, Time: 61.18 seconds.
+2024-01-27 04:21:02,424 - root - INFO - Epoch: 013, LossReg: 1157.9362, LossCLS: 790.4288,Acc: 0.649611, F1_Macro:0.368062, Time: 61.38 seconds.
+2024-01-27 04:22:03,591 - root - INFO - Epoch: 014, LossReg: 1158.8977, LossCLS: 790.6991,Acc: 0.648560, F1_Macro:0.370716, Time: 61.17 seconds.
+2024-01-27 04:23:04,805 - root - INFO - Epoch: 015, LossReg: 1163.4616, LossCLS: 790.2627,Acc: 0.647705, F1_Macro:0.372490, Time: 61.21 seconds.
+2024-01-27 04:24:06,067 - root - INFO - Epoch: 016, LossReg: 1155.6041, LossCLS: 790.4978,Acc: 0.648398, F1_Macro:0.372549, Time: 61.26 seconds.
+2024-01-27 04:25:07,477 - root - INFO - Epoch: 017, LossReg: 1146.9179, LossCLS: 785.9666,Acc: 0.650408, F1_Macro:0.377925, Time: 61.41 seconds.
+2024-01-27 04:26:08,500 - root - INFO - Epoch: 018, LossReg: 1152.6120, LossCLS: 787.0966,Acc: 0.650569, F1_Macro:0.379076, Time: 61.02 seconds.
+2024-01-27 04:27:10,002 - root - INFO - Epoch: 019, LossReg: 1136.5427, LossCLS: 784.3367,Acc: 0.651435, F1_Macro:0.378456, Time: 61.50 seconds.
+2024-01-27 04:28:11,693 - root - INFO - Epoch: 020, LossReg: 1139.7187, LossCLS: 781.4258,Acc: 0.652440, F1_Macro:0.381871, Time: 61.69 seconds.
+2024-01-27 04:29:12,720 - root - INFO - Epoch: 021, LossReg: 1145.7772, LossCLS: 784.4818,Acc: 0.649380, F1_Macro:0.383260, Time: 61.03 seconds.
+2024-01-27 04:30:13,350 - root - INFO - Epoch: 022, LossReg: 1135.3770, LossCLS: 782.4090,Acc: 0.650731, F1_Macro:0.382380, Time: 60.63 seconds.
+2024-01-27 04:31:15,088 - root - INFO - Epoch: 023, LossReg: 1130.3402, LossCLS: 780.2983,Acc: 0.652417, F1_Macro:0.383581, Time: 61.74 seconds.
+2024-01-27 04:32:16,359 - root - INFO - Epoch: 024, LossReg: 1134.8671, LossCLS: 781.0008,Acc: 0.650789, F1_Macro:0.387480, Time: 61.27 seconds.
+2024-01-27 04:33:17,416 - root - INFO - Epoch: 025, LossReg: 1141.2691, LossCLS: 780.8480,Acc: 0.650188, F1_Macro:0.387768, Time: 61.06 seconds.
+2024-01-27 04:34:18,670 - root - INFO - Epoch: 026, LossReg: 1129.4685, LossCLS: 779.4890,Acc: 0.651609, F1_Macro:0.392451, Time: 61.25 seconds.
+2024-01-27 04:35:20,339 - root - INFO - Epoch: 027, LossReg: 1126.9766, LossCLS: 778.2944,Acc: 0.651990, F1_Macro:0.390618, Time: 61.67 seconds.
+2024-01-27 04:36:21,451 - root - INFO - Epoch: 028, LossReg: 1123.4337, LossCLS: 779.1804,Acc: 0.651828, F1_Macro:0.393836, Time: 61.11 seconds.
+2024-01-27 04:37:22,388 - root - INFO - Epoch: 029, LossReg: 1117.8007, LossCLS: 776.7636,Acc: 0.652001, F1_Macro:0.393039, Time: 60.94 seconds.
+2024-01-27 04:38:23,365 - root - INFO - Epoch: 030, LossReg: 1121.1892, LossCLS: 777.3952,Acc: 0.653052, F1_Macro:0.397959, Time: 60.98 seconds.
+2024-01-27 04:39:23,772 - root - INFO - Epoch: 031, LossReg: 1123.5892, LossCLS: 776.8999,Acc: 0.652070, F1_Macro:0.399035, Time: 60.41 seconds.
+2024-01-27 04:40:24,700 - root - INFO - Epoch: 032, LossReg: 1109.6147, LossCLS: 775.2695,Acc: 0.652579, F1_Macro:0.402801, Time: 60.93 seconds.
+2024-01-27 04:41:26,032 - root - INFO - Epoch: 033, LossReg: 1116.8596, LossCLS: 774.1420,Acc: 0.653029, F1_Macro:0.403502, Time: 61.33 seconds.
+2024-01-27 04:42:27,129 - root - INFO - Epoch: 034, LossReg: 1097.0758, LossCLS: 770.8215,Acc: 0.653156, F1_Macro:0.405642, Time: 61.10 seconds.
+2024-01-27 04:43:28,642 - root - INFO - Epoch: 035, LossReg: 1116.1452, LossCLS: 775.8333,Acc: 0.652105, F1_Macro:0.404906, Time: 61.51 seconds.
+2024-01-27 04:44:30,408 - root - INFO - Epoch: 036, LossReg: 1111.3508, LossCLS: 774.5680,Acc: 0.653930, F1_Macro:0.406505, Time: 61.77 seconds.
+2024-01-27 04:45:31,698 - root - INFO - Epoch: 037, LossReg: 1108.7323, LossCLS: 772.4290,Acc: 0.653837, F1_Macro:0.408810, Time: 61.29 seconds.
+2024-01-27 04:46:33,135 - root - INFO - Epoch: 038, LossReg: 1107.6374, LossCLS: 774.5097,Acc: 0.652359, F1_Macro:0.412585, Time: 61.43 seconds.
+2024-01-27 04:47:34,477 - root - INFO - Epoch: 039, LossReg: 1101.3195, LossCLS: 770.3768,Acc: 0.654080, F1_Macro:0.414197, Time: 61.34 seconds.
+2024-01-27 04:47:34,478 - root - INFO - Early stopping

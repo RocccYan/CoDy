@@ -1,0 +1,23 @@
+2024-01-29 20:10:00,650 - root - INFO - Task dblp.v13@hgt-32-1-1@0@10@0.001 begin...
+2024-01-29 20:11:34,570 - root - INFO - 65978
+2024-01-29 20:11:35,946 - root - INFO - get loaders done.
+2024-01-29 20:11:35,977 - root - INFO - Using device: cuda
+2024-01-29 20:11:50,092 - root - INFO - Epoch: 000, LossReg: 1449.0951, LossCLS: 199.9971,Acc: 0.680767, F1_Macro:0.284136, Time: 9.17 seconds.
+2024-01-29 20:11:59,253 - root - INFO - Epoch: 001, LossReg: 1435.6467, LossCLS: 193.2096,Acc: 0.687403, F1_Macro:0.280204, Time: 9.16 seconds.
+2024-01-29 20:34:24,015 - root - INFO - Task dblp.v13@hgt-32-1-1@0@10@0.001 begin...
+2024-01-29 20:36:12,018 - root - INFO - 65978
+2024-01-29 20:36:13,159 - root - INFO - get loaders done.
+2024-01-29 20:38:17,786 - root - INFO - Task dblp.v13@hgt-32-1-1@0@10@0.001 begin...
+2024-01-29 20:39:53,954 - root - INFO - 65978
+2024-01-29 20:39:55,102 - root - INFO - get loaders done.
+2024-01-29 20:39:55,297 - root - INFO - Using device: cuda
+2024-01-29 20:58:23,156 - root - INFO - Task dblp.v13@hgt-32-1-1@0@10@0.001 begin...
+2024-01-29 20:59:57,263 - root - INFO - 65978
+2024-01-29 20:59:58,329 - root - INFO - get loaders done.
+2024-01-29 21:07:02,930 - root - INFO - Task dblp.v13@hgt-32-1-1@0@10@0.001 begin...
+2024-01-29 21:08:48,647 - root - INFO - 65978
+2024-01-29 21:08:50,306 - root - INFO - get loaders done.
+2024-01-29 21:12:25,349 - root - INFO - Task dblp.v13@hgt-32-1-1@0@10@0.001 begin...
+2024-01-29 21:14:02,958 - root - INFO - 65978
+2024-01-29 21:14:04,291 - root - INFO - get loaders done.
+2024-01-29 21:14:04,325 - root - INFO - Using device: cuda

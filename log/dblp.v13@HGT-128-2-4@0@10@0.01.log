@@ -1,0 +1,12 @@
+2024-01-26 22:09:17,274 - root - INFO - Task dblp.v13@HGT-128-2-4@0@10@0.01 begin...
+2024-01-26 22:10:52,050 - root - INFO - 65978
+2024-01-26 22:10:52,600 - root - INFO - get loaders done.
+2024-01-26 22:10:52,658 - root - INFO - Using device: cuda
+2024-01-26 22:12:20,013 - root - INFO - Epoch: 000, LossReg: 2601308946657714372608.0000, LossCLS: 230766094399627.3125,Acc: 0.472048, F1_Macro:0.337826, Time: 82.11 seconds.
+2024-01-26 22:13:41,166 - root - INFO - Epoch: 001, LossReg: 21332573059.6041, LossCLS: 3417642407677952.0000,Acc: 0.484452, F1_Macro:0.349099, Time: 81.15 seconds.
+2024-01-26 22:15:02,202 - root - INFO - Epoch: 002, LossReg: 12014557539545626181632.0000, LossCLS: 3861252634418688.0000,Acc: 0.482689, F1_Macro:0.345135, Time: 81.03 seconds.
+2024-01-26 22:16:23,497 - root - INFO - Epoch: 003, LossReg: nan, LossCLS: nan,Acc: 0.436503, F1_Macro:0.337587, Time: 81.29 seconds.
+2024-01-26 22:17:44,837 - root - INFO - Epoch: 004, LossReg: nan, LossCLS: nan,Acc: 0.341118, F1_Macro:0.169569, Time: 81.34 seconds.
+2024-01-26 22:19:07,287 - root - INFO - Epoch: 005, LossReg: nan, LossCLS: nan,Acc: 0.342582, F1_Macro:0.170111, Time: 82.45 seconds.
+2024-01-26 22:20:29,175 - root - INFO - Epoch: 006, LossReg: nan, LossCLS: nan,Acc: 0.340726, F1_Macro:0.169424, Time: 81.89 seconds.
+2024-01-26 22:20:29,176 - root - INFO - Early stopping
