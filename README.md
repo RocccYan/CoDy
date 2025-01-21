@@ -7,9 +7,9 @@
 
 Environment
 ---
-For pip: ``
+For pip: 
 <br>
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 
 Data Processing
