@@ -72,15 +72,36 @@ class CitationPredictor(torch.nn.Module):
     def forward(self, emb):
         return self.lin_reg(emb), self.lin_cls(emb)
 
+
 class CooperationPredictor(torch.nn.Module):
     """
-    return xxx.
+    Predicts co-author behavior (cooperation) between authors.
+    Outputs a classification result.
     """
-    # TODO
     def __init__(self, in_channels, num_classes=2):
+        """
+        Args:
+            in_channels (int): Dimension of the input node embeddings.
+            num_classes (int): Number of classes for cooperation prediction.
+        """
         super().__init__()
-        self.lin_reg = Linear(in_channels, 1)
-        self.lin_cls = Linear(in_channels, num_classes)
+        self.lin_cls = Linear(in_channels * 2, num_classes)  # Input is concatenated embeddings of two authors
         
-    def forward(self, emb):
-        return self.lin_reg(emb), self.lin_cls(emb)
+    def forward(self, emb_a, emb_b):
+        """
+        Forward pass for cooperation prediction.
+        
+        Args:
+            emb_a (Tensor): Embeddings of the first author (shape: [batch_size, in_channels]).
+            emb_b (Tensor): Embeddings of the second author (shape: [batch_size, in_channels]).
+        
+        Returns:
+            Tensor: Cooperation class logits (shape: [batch_size, num_classes]).
+        """
+        # Concatenate the embeddings of the two authors
+        pair_emb = torch.cat([emb_a, emb_b], dim=-1)  # Shape: [batch_size, in_channels * 2]
+        
+        # Pass through the linear layer for classification
+        logits = self.lin_cls(pair_emb)  # Shape: [batch_size, num_classes]
+        
+        return logits

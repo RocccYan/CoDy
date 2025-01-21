@@ -311,14 +311,6 @@ def get_valid_DBLP(data_path):
     save_as_json(list(papers_valid), osp.join(data_path,f'papers_valid_{size}.json'))
 
 
-def process_APS():
-    
-    pass
-
-def process_AMiner():
-    pass
-
-
 def process_DBLP(data_path):
 
     papers = {}
@@ -387,10 +379,6 @@ def process_DBLP(data_path):
     save_as_json(venue_publish_paper, osp.join(data_path,'venue_publish_paper.json'))
     
     print('Save successfully!')
-
-
-def process_PubMed():
-    pass
 
 
 def clear_DBLP(data_path):
