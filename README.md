@@ -1,6 +1,6 @@
 <div algin="center">
-# CoDy: Modeling Scholarly Collaboration and Temporal Dynamics in
-Citation Networks for Impact Prediction
+
+# CoDy: Modeling Scholarly Collaboration and Temporal Dynamics in Citation Networks for Impact Prediction
 
 <a href='https://dl.acm.org/doi/10.1145/3626772.3657926'>
 </div>
